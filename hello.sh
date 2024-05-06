@@ -1,2 +1,2 @@
 #!/bin/bash #
-echo "Hello vvinod again!"
+echo "Hello vvinod!"
