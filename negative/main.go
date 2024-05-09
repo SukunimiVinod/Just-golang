@@ -1,6 +1,6 @@
 package main
 
-import "piscine/negative/piscine"
+import "piscine"
 
 func main() {
 	piscine.IsNegative(1)
